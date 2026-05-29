@@ -1,42 +1,42 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════
-     HEADER BANNER — Deep Cloud Blue + Cyan + Violet gradient
-     ═══════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,100:0F172A&height=200&section=header&text=Sarika%20Reddy%20Sathi&fontSize=50&fontColor=06B6D4&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18&descColor=94A3B8" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════
+     STYLE 3 — CYBERPUNK AI THEME
+     Banner : deep black #0d0d0d → purple #1a0030 → black
+     Name   : neon magenta  #FF2D78  (hot-pink glow, uppercase)
+     Desc   : neon cyan     #00F5FF
+     Typing : terminal green #39FF14  with > prompt prefix
+     ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:1a0030,60:0d0020,100:0d0d0d&height=220&section=header&text=SARIKA%20REDDY%20SATHI&fontSize=46&fontColor=FF2D78&animation=twinkling&fontAlignY=38&desc=AI%20ENGINEER%20%2F%2F%20DATA%20ENGINEER%20%2F%2F%20ML%20ENTHUSIAST&descAlignY=60&descSize=16&descColor=00F5FF" width="100%"/>
 
 <br/>
 
-<!-- Typing SVG — Cyan accent, JetBrains Mono, no emojis -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=740&lines=Aspiring+AI+%26+Data+Engineer;Building+Intelligent+Automation+Systems;Google+Cloud+%7C+Snowflake+%7C+Power+Platform;CGPA+9.1+%7C+Open+for+2027+Campus+Placements" alt="Typing SVG"/>
+<br/>
 
-<br/><br/>
-
-<!-- ═══════════════════════════════════
-     SOCIAL BUTTONS — Dark unified style
-     ═══════════════════════════════════ -->
+<!-- Social badges — deep black bg, neon accent logos -->
 <a href="https://www.linkedin.com/in/sarikareddy-sathi/">
-  <img src="https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
 </a>
 <a href="mailto:sarikareddysathi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF2D78" alt="Gmail"/>
 </a>
 <a href="https://video-upload-cd878.firebaseapp.com/">
-  <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=firefox-browser&logoColor=06B6D4" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF2D78?style=for-the-badge&logo=firefox-browser&logoColor=0d0d0d" alt="Portfolio"/>
 </a>
 <a href="https://leetcode.com/u/Sarika_Reddy06/">
-  <img src="https://img.shields.io/badge/LeetCode-1f2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode"/>
 </a>
 <a href="https://www.codechef.com/users/sarika_reddy">
-  <img src="https://img.shields.io/badge/CodeChef-1f2937?style=for-the-badge&logo=codechef&logoColor=94A3B8" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-0d0d0d?style=for-the-badge&logo=codechef&logoColor=00F5FF" alt="CodeChef"/>
 </a>
 <a href="https://www.hackerrank.com/profile/SarikaReddy17">
-  <img src="https://img.shields.io/badge/HackerRank-1f2937?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-0d0d0d?style=for-the-badge&logo=hackerrank&logoColor=39FF14" alt="HackerRank"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sarika-Reddy-S&style=for-the-badge&color=1E3A8A&label=PROFILE+VIEWS&labelColor=0F172A" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sarika-Reddy-S&style=for-the-badge&color=FF2D78&labelColor=0d0d0d&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -59,96 +59,73 @@ I am **Sarika Reddy Sathi**, a B.Tech undergraduate in Artificial Intelligence a
 
 ## Tech Stack
 
-<!-- ══════════════════════════════════════════════════════
-     Uniform palette:
-       Languages   → #334155  (Slate 700)
-       AI / ML     → #1E40AF  (Blue 800)
-       Web         → #1E3A5F  (Blue-Navy)
-       Backend     → #0F766E  (Teal 700)
-       Automation  → #0F766E  (Teal 700)
-     ══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     Cyberpunk badge palette:
+       Languages        → #1a0030  (deep purple)  logo: #39FF14 terminal green
+       AI / ML & Data   → #0d001a  (near-black purple) logo: #00F5FF cyan
+       Frontend / Web   → #001a1a  (dark teal-black)   logo: #00F5FF cyan
+       Backend / DB     → #0d001a  logo: #39FF14
+       Automation/Tools → #1a0030  logo: #FF2D78 magenta
+     ═══════════════════════════════════════════════════════════════ -->
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1a0030?style=flat-square&logo=python&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-1a0030?style=flat-square&logo=openjdk&logoColor=00F5FF)
+![C](https://img.shields.io/badge/C-1a0030?style=flat-square&logo=c&logoColor=00F5FF)
+![SQL](https://img.shields.io/badge/SQL-1a0030?style=flat-square&logo=databricks&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0030?style=flat-square&logo=javascript&logoColor=FF2D78)
 
 **AI / ML and Data Engineering**
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-1E40AF?style=flat-square&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-1E40AF?style=flat-square&logo=google-cloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-1E40AF?style=flat-square&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-1E40AF?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Firebase](https://img.shields.io/badge/Firebase-1E40AF?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Big Data](https://img.shields.io/badge/Big_Data_Computing-1E40AF?style=flat-square&logo=apache&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-0d001a?style=flat-square&logo=google-cloud&logoColor=00F5FF)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-0d001a?style=flat-square&logo=google-cloud&logoColor=00F5FF)
+![Snowflake](https://img.shields.io/badge/Snowflake-0d001a?style=flat-square&logo=snowflake&logoColor=00F5FF)
+![Power BI](https://img.shields.io/badge/Power_BI-0d001a?style=flat-square&logo=powerbi&logoColor=FF2D78)
+![Firebase](https://img.shields.io/badge/Firebase-0d001a?style=flat-square&logo=firebase&logoColor=FF2D78)
+![Big Data](https://img.shields.io/badge/Big_Data_Computing-0d001a?style=flat-square&logo=apache&logoColor=39FF14)
 
 **Frontend and Web**
 
-![React](https://img.shields.io/badge/React-1E3A5F?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-1E3A5F?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1E3A5F?style=flat-square&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1E3A5F?style=flat-square&logo=bootstrap&logoColor=7952B3)
+![React](https://img.shields.io/badge/React-001a1a?style=flat-square&logo=react&logoColor=00F5FF)
+![HTML5](https://img.shields.io/badge/HTML5-001a1a?style=flat-square&logo=html5&logoColor=FF2D78)
+![CSS3](https://img.shields.io/badge/CSS3-001a1a?style=flat-square&logo=css3&logoColor=00F5FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-001a1a?style=flat-square&logo=bootstrap&logoColor=39FF14)
 
 **Backend and Databases**
 
-![Django](https://img.shields.io/badge/Django-0F766E?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0F766E?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F766E?style=flat-square&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0d001a?style=flat-square&logo=django&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-0d001a?style=flat-square&logo=mysql&logoColor=00F5FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d001a?style=flat-square&logo=postgresql&logoColor=00F5FF)
 
 **Automation and Tools**
 
-![Power Automate](https://img.shields.io/badge/Power_Automate-0F766E?style=flat-square&logo=microsoft-power-automate&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-0F766E?style=flat-square&logo=microsoft&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0F766E?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_Advanced-0F766E?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-334155?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Power Automate](https://img.shields.io/badge/Power_Automate-1a0030?style=flat-square&logo=microsoft-power-automate&logoColor=FF2D78)
+![PowerApps](https://img.shields.io/badge/PowerApps-1a0030?style=flat-square&logo=microsoft&logoColor=00F5FF)
+![SharePoint](https://img.shields.io/badge/SharePoint-1a0030?style=flat-square&logo=microsoft-sharepoint&logoColor=00F5FF)
+![Excel](https://img.shields.io/badge/Excel_Advanced-1a0030?style=flat-square&logo=microsoft-excel&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-1a0030?style=flat-square&logo=git&logoColor=FF2D78)
+![GitHub](https://img.shields.io/badge/GitHub-1a0030?style=flat-square&logo=github&logoColor=00F5FF)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0030?style=flat-square&logo=visual-studio-code&logoColor=39FF14)
 
 ---
 
 ## GitHub Stats
 
-<!-- ══════════════════════════════════════════════════════════════
-     Stats cards — NO theme param (causes override conflicts).
-     All colors set manually:
-       bg_color    = 0d1117  (GitHub native dark)
-       title_color = 58a6ff  (GitHub bright blue)
-       text_color  = c9d1d9  (clean off-white)
-       icon_color  = 06b6d4  (cyan accent)
-       border_color= 1e3a8a  (cloud blue border)
-     ══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     Stats — Cyberpunk palette:
+       bg_color    = 0d0d0d   (deep black)
+       title_color = FF2D78   (neon magenta)
+       text_color  = 00F5FF   (neon cyan)
+       icon_color  = 39FF14   (terminal green)
+       border_color= 1a0030   (deep purple)
+     theme=dark base + custom overrides on top.
+     ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Sarika-Reddy-S&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=06b6d4&border_color=1e3a8a" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika-Reddy-S&layout=compact&hide_border=false&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1e3a8a" alt="Top Languages"/>
-
-</div>
-
-<!-- ══════════════════════════════════════════════════════
-     Streak — matching palette, demolab domain (reliable)
-     ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sarika-Reddy-S&hide_border=false&background=0d1117&stroke=1e3a8a&ring=58a6ff&fire=06b6d4&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681&border=1e3a8a" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarika-Reddy-S&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sarika-Reddy-S&theme=dark&background=0d0d0d&stroke=1a0030&ring=FF2D78&fire=FF2D78&currStreakLabel=FF2D78&sideLabels=00F5FF&currStreakNum=39FF14&sideNums=39FF14&dates=6e6e8a&border=1a0030" alt="GitHub Streak" width="60%"/>
+</p>
 
 ---
 
@@ -157,9 +134,9 @@ I am **Sarika Reddy Sathi**, a B.Tech undergraduate in Artificial Intelligence a
 | Project | Tech Stack | Impact | Link |
 |:---|:---|:---|:---|
 | **SyntaxLab — AI Coding Platform** | Google Cloud · Vertex AI · Firebase · JavaScript | AI-powered personalised learning and real-time code generation | [Live Demo](https://syntaxlab-5.web.app/) |
-| **Applicant Management System** | Power Automate · SharePoint · Power Platform | 30% reduction in manual recruitment effort | Internal |
-| **Restaurant Management System** | Django · Python · MySQL · Bootstrap | Full-stack role-based auth, menu, orders, and reservations | [GitHub](https://github.com/Sarika-Reddy-S/Restaurant_Management-) |
-| **Leave Approval System** | Power Automate · SharePoint · Excel | 40% improvement in operational efficiency | Internal |
+| **Applicant Management System** | Power Automate · SharePoint · Power Platform | 30% reduction in manual recruitment effort | Internal Demo |
+| **Restaurant Management System** | Django · Python · MySQL · Bootstrap | Full-stack role-based auth, menu, orders, and reservations | [View Code](https://github.com/Sarika-Reddy-S/Restaurant_Management-) |
+| **Leave Approval System** | Power Automate · SharePoint · Excel | 40% improvement in operational efficiency | Internal Demo |
 
 ---
 
@@ -190,14 +167,14 @@ I am **Sarika Reddy Sathi**, a B.Tech undergraduate in Artificial Intelligence a
 
 | Certification | Issuer | Verify |
 |:---|:---|:---|
-| PL-600: Power Platform Solution Architect | Microsoft | [View](https://learn.microsoft.com/en-us/certifications/exams/pl-600/) |
-| SnowPro Associate: Platform Certification | Snowflake | [View](https://achieve.snowflake.com/a883eb18-03db-4699-b681-f175a85cfec5) |
-| Google Cloud Data Analytics Certificate | Google Cloud | [View](https://www.skills.google/public_profiles/d7d699ca-e50c-41af-b036-e01f9ae2e436) |
-| Oracle Certified Foundations Associate, Database | Oracle | [View](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQCGva5LszoaRKht-xbcRm4kAYWp1CaOu7I41wwIAGBM7Ck) |
-| Big Data Computing | IIT Kanpur via NPTEL | [View](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQC5wFJssBBNQ6I3NtLdsNO3AdXeNo7ZnxpSdb8NxFlmELk) |
-| Google Cybersecurity Professional Certificate | Coursera / Google | [View](https://coursera.org/share/9bee3abf19afb2a8febb88f3cf6ded2c) |
-| Web Development using Django | APSSDC — Naipunyam Initiative | [View](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQClPaMWSDXiTKbj7BU7kOuqAeAUOmnTBBYvSdXmBZbjLRY) |
-| Quantum Fundamentals Program | Amaravati Quantum Valley and WISER | [View](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQBM2qhIbIXUT7NNzbw70aG8AeipQIUcWpc7hc6XGBD9OXk) |
+| PL-600: Power Platform Solution Architect | Microsoft | [View Certificate](https://learn.microsoft.com/en-us/certifications/exams/pl-600/) |
+| SnowPro Associate: Platform Certification | Snowflake | [View Certificate](https://achieve.snowflake.com/a883eb18-03db-4699-b681-f175a85cfec5) |
+| Google Cloud Data Analytics Certificate | Google Cloud | [View Certificate](https://www.skills.google/public_profiles/d7d699ca-e50c-41af-b036-e01f9ae2e436) |
+| Oracle Certified Foundations Associate, Database | Oracle | [View Certificate](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQCGva5LszoaRKht-xbcRm4kAYWp1CaOu7I41wwIAGBM7Ck) |
+| Big Data Computing | IIT Kanpur via NPTEL | [View Certificate](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQC5wFJssBBNQ6I3NtLdsNO3AdXeNo7ZnxpSdb8NxFlmELk) |
+| Google Cybersecurity Professional Certificate | Coursera / Google | [View Certificate](https://coursera.org/share/9bee3abf19afb2a8febb88f3cf6ded2c) |
+| Web Development using Django | APSSDC — Naipunyam Initiative | [View Certificate](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQClPaMWSDXiTKbj7BU7kOuqAeAUOmnTBBYvSdXmBZbjLRY) |
+| Quantum Fundamentals Program | Amaravati Quantum Valley and WISER | [View Certificate](https://adityagroup-my.sharepoint.com/:b:/g/personal/24p35a4230_acet_ac_in/IQBM2qhIbIXUT7NNzbw70aG8AeipQIUcWpc7hc6XGBD9OXk) |
 
 ---
 
@@ -220,15 +197,15 @@ I am **Sarika Reddy Sathi**, a B.Tech undergraduate in Artificial Intelligence a
 <br/>
 
 <a href="https://www.linkedin.com/in/sarikareddy-sathi/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00F5FF" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://video-upload-cd878.firebaseapp.com/">
-  <img src="https://img.shields.io/badge/View_Portfolio-1f2937?style=for-the-badge&logo=firefox-browser&logoColor=06B6D4" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/View_Portfolio-FF2D78?style=for-the-badge&logo=firefox-browser&logoColor=0d0d0d" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="mailto:sarikareddysathi@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send_Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF2D78" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -237,6 +214,7 @@ I am **Sarika Reddy Sathi**, a B.Tech undergraduate in Artificial Intelligence a
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,100:0F172A&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- Footer wave — cyberpunk purple fade -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0030,100:0d0d0d&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
