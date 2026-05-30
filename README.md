@@ -1,10 +1,3 @@
-<!-- SECTION G: VISITOR COUNTER -->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Sarika-Reddy-S&style=for-the-badge&color=FF5500&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
----
-
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
 
@@ -153,4 +146,7 @@ Feel free to reach out — I'm always happy to connect, collaborate, or just cha
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
+</div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Sarika-Reddy-S&style=for-the-badge&color=FF5500&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
