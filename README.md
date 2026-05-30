@@ -77,23 +77,6 @@ Hey there! I'm **Sarika Reddy Sathi** — a passionate **AI & ML undergraduate**
 
 </div>
 
----
-
-<!-- SECTION E: GITHUB STATS -->
-##  GitHub Stats
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarika-Reddy-S&theme=tokyonight&hide_border=false)](https://github.com/Sarika-Reddy-S)
-
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 |  Project |  Tech Stack |  Impact |  Link |
